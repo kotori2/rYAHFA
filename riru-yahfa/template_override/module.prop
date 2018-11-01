@@ -1,0 +1,7 @@
+id=riru-yahfa
+name=Riru-YAHFA
+version=v0.0.1
+versionCode=1
+author=Kotori0
+description=Riru module template. Require Riru - Core installed.
+minMagisk=17000
